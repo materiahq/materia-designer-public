@@ -8,4 +8,4 @@
 ---
 
 * Materia Server Version: 0.1.0
-* Materia Designer Version: 0.1.0-rc.1
+* Materia Designer Version: 0.1.0-rc.2
