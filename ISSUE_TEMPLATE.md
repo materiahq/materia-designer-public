@@ -7,5 +7,5 @@
 
 ---
 
-* Materia Server Version: 0.1.1
-* Materia Designer Version: 0.1.0-rc.4
+* Materia Server Version: 0.1.3
+* Materia Designer Version: 0.1.0
