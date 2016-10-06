@@ -1,9 +1,8 @@
+### Current behavior
+
 ### Expected behavior
 
-### Actual behavior
-
 ### Step to reproduce the behavior
-
 
 ---
 
