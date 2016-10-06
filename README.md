@@ -1,4 +1,4 @@
-# [Materia Designer (getmateria.com)](https://getmateria.com)
+# [Materia Designer](https://getmateria.com)
 
 ![Logo](https://getmateria.com/img/logo.png)
 
