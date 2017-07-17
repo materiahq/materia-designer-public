@@ -1,12 +1,12 @@
-### Current behavior
+- Current Issue
 
-### Expected behavior
+- Expected behavior
 
-### Step to reproduce the behavior
+- Step to reproduce the behavior
 
 ---
 
-* OS Platform / arch: Windows x64 / MacOS
+* OS Platform: Windows x64 / MacOS
 * Database : MySQL / PostgreSQL / SQLite
-* Materia Server Version: 0.7.1
-* Materia Designer Version: 0.7.0
+* Materia Server Version: 0.8.0
+* Materia Designer Version: 0.8.0
