@@ -6,7 +6,7 @@ Materia is an easy-to-use backend to build all kinds of applications (mobile, we
 
 ![Screenshot](https://getmateria.com/assets/img/screen-entities.png)
 
-> Materia is in beta and we need your help to track bugs. This is the main purpose of this repository. If you catch one of them, please, report it on [github.com/materiahq/materia-designer/issues](https://github.com/materiahq/materia-designer/issues).
+> Materia is under active development and we need your help to track bugs. This is the main purpose of this repository. If you catch one of them, please, report it on [github.com/materiahq/materia-designer/issues](https://github.com/materiahq/materia-designer/issues).
 
 Website: [getmateria.com](https://getmateria.com)
 
