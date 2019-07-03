@@ -8,5 +8,5 @@
 
 * OS Platform: Windows x64 / MacOS
 * Database : MySQL / PostgreSQL / SQLite
-* Materia Server Version: 0.8.0
-* Materia Designer Version: 0.8.0
+* Materia Server Version: 1.0.1
+* Materia Designer Version: 1.0.2
